@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm a full stack developer...
 
-👩‍💻 I'm currently working on a personal portfolio website
+👩‍💻 I'm currently working on a certification program
 
 📫 Reach me at jake.schroder@gmail.com
 
