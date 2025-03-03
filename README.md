@@ -13,7 +13,7 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Python, NodeJS, MongoDB, ExpressJS, AngualarJS, C/C++, SQL, Docker, 
+Typescript, Javascript, HTML, CSS, Python, NodeJS, MongoDB, ExpressJS, AngualarJS, C/C++, SQL, Docker, 
 AngularJS, Django, NGINX.
 
 
